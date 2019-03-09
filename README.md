@@ -1,2 +1,3 @@
 # LeetCode
-### Repository for solving leetcode problems using java
+
+Repository for solving leetcode problems using java
